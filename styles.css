@@ -1,0 +1,37 @@
+.title {
+  color: black;
+  font-size: 64px;
+  text-align: center;
+}
+
+body {
+  background-color: lightslategrey;
+}
+
+.main-page {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+  color: white;
+  text-align: center;
+  list-style-position: inside;
+  padding: 0; /* Remove default padding for the ul */
+}
+
+.links li {
+  margin: 10px 0; /* Space between list items */
+}
+
+a {
+  color: white;
+  text-decoration: none; /* Remove underline from links */
+}
+
+#image {
+  height: 500px;
+  align-content: center;
+}
+
+
+
